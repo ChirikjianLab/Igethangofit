@@ -13,6 +13,7 @@ The action of hanging previously unseen objects remains a challenge for robots d
   <source src="72b3e511-eccb-420b-949f-8d6d9968a2bb.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+- [Paper](https://ieeexplore.ieee.org/document/10443033/media#media)
 - [Supplementary Material](https://drive.google.com/file/d/1tSElpLl2EzayE5S0DUzYzR152mxgmB0A/view?usp=sharing)
 - [Video](https://drive.google.com/file/d/1oauboZ12CiVgnD7ye9s5YguNfSOyS-Ij/view?usp=sharing)
 - Code and data will be available soon
