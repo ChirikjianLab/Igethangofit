@@ -9,7 +9,7 @@ National University of Singapore, Johns Hopkins University
 The action of hanging previously unseen objects remains a challenge for robots due to the multitude of object shapes and the limited number of stable hanging arrangements. This paper proposes a learning-free framework that enables robots to infer stable relative poses between the object being hung (object) and the supporting item (supporter). Our method identifies potential hanging positions and orientations on previously unseen supporters and objects by analyzing the hanging mechanics and geometric properties. An evaluation policy is designed to match potential hanging positions and directions and to optimize the relative hanging poses. Experiments were conducted in both simulation and real-world scenarios. The success rates of our strategy outperform the state-of-the-art baseline method. The proposed method was also tested on unhangable pairs of objects and supporters and results show that our algorithm can reject false positive hanging properly. Finally, we ran experiments under different scanning conditions. Experimental results indicate that although the success rate decreases as the quality of the scan decreases, it remains at a high level. 
 
 ## Links
-<video width="1280" height="720" controls>
+<video width="640" height="360" controls>
   <source src="72b3e511-eccb-420b-949f-8d6d9968a2bb.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
